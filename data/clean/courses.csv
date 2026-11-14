@@ -1,0 +1,11 @@
+COURSE_ID,COURSE_NAME,DEPARTMENT,CREDITS
+CS101,Introduction to Programming,Computer Science,4
+CS201,Data Structures & Algorithms,Computer Science,4
+DS301,Machine Learning Fundamentals,Data Science,3
+DS302,Big Data Analytics,Data Science,3
+IT205,Database Management Systems,Information Technology,4
+IT301,Web Technologies & Cloud,Information Technology,3
+EE101,Circuit Analysis,Electrical Eng,4
+EE202,Digital Signal Processing,Electrical Eng,3
+ME101,Engineering Mechanics,Mechanical Eng,4
+ME203,Thermodynamics,Mechanical Eng,3
